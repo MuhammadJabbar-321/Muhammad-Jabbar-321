@@ -28,7 +28,7 @@
 <table>
 <tr>
 <td width="220" align="center">
-  <img src="https://github.com/MuhammadJabbar-321.png" width="180" alt="Muhammad Jabbar"/>
+  <img src="assets/profile.jpg" width="180" alt="Muhammad Jabbar"/>
   <br/><b>Muhammad Jabbar</b>
   <br/><sub>Islamabad, Pakistan 🇵🇰</sub>
 </td>
