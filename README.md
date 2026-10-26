@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://portfolio-liart-eta-98.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0A2463?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/muhammad-jabbar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-jabbar-b74559328/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:Jm9188363@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -222,7 +222,7 @@ Record-management tools built with core OOP concepts.
 
 <p align="center">
   📫 <a href="mailto:Jm9188363@gmail.com">Jm9188363@gmail.com</a> •
-  <a href="https://www.linkedin.com/in/muhammad-jabbar">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/muhammad-jabbar-b74559328/">LinkedIn</a> •
   <a href="https://portfolio-liart-eta-98.vercel.app/">Portfolio</a>
 </p>
 
