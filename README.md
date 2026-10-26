@@ -1,12 +1,12 @@
 <!-- ANIMATED HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2463,50:1E88E5,100:00C6FF&height=230&section=header&text=Muhammad%20Jabbar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Generative%20AI%20%E2%80%A2%20Full-Stack%20Developer&descSize=20&descAlignY=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2463,50:1E88E5,100:00C6FF&height=230&section=header&text=Muhammad%20Jabbar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20and%20Generative%20AI%20%E2%80%A2%20Full-Stack%20Developer&descSize=20&descAlignY=60" width="100%"/>
 </p>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
   <a href="https://portfolio-liart-eta-98.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1E88E5&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%7C+CGPA+4.00;Building+Intelligent+Systems+with+ML+%26+GenAI;Full-Stack+Developer+%7C+React+%2B+Next.js+%2B+Flask;Dean's+Honor+List+%7C+Talent+Scholarship+Recipient;Aspiring+Generative+AI+Expert" alt="Typing animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1E88E5&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%7C+CGPA+4.00;Building+Intelligent+Systems+with+ML+and+GenAI;Full-Stack+Developer+%7C+React+%2B+Next.js+%2B+Flask;Dean's+Honor+List+%7C+Talent+Scholarship+Recipient;Aspiring+Generative+AI+Expert" alt="Typing animation"/>
   </a>
 </p>
 
